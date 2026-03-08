@@ -3,6 +3,26 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/AbstractFactor/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AbstractFactor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-ChainOfResponsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-ChainOfResponsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Mediator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Mediator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Memento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Memento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Observer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-State/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-State/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Visitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BehavioralDesign-Visitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CreationalDesign-AbstractFactory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CreationalDesign-AbstractFactory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/CreationalDesign-Builder/src/main/java" charset="UTF-8" />

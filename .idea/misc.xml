@@ -22,6 +22,16 @@
         <option value="$PROJECT_DIR$/CreationalDesign-Prototype/pom.xml" />
         <option value="$PROJECT_DIR$/CreationalDesign-Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/StructuralDesign-Bridge/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Command/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-State/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Template/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-ChainOfResponsibility/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Visitor/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/BehavioralDesign-Memento/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

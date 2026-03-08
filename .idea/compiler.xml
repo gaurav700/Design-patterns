@@ -6,18 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CreationalDesign-FactoryMethod" />
         <module name="CreationalDesign-Singleton" />
-        <module name="StructrualDesign-Decorator" />
-        <module name="CreationalDesign-AbstractFactory" />
-        <module name="CreationalDesign-Prototype" />
-        <module name="StructuralDesign-Adapter" />
         <module name="StructuralDesign-Flyweight" />
+        <module name="BehavioralDesign-Observer" />
         <module name="StructuralDesign-Composite" />
         <module name="StructuralDesign-Proxy" />
         <module name="StructuralDesign-Facade" />
         <module name="CreationalDesign-Builder" />
+        <module name="BehavioralDesign-Command" />
+        <module name="BehavioralDesign-Strategy" />
+        <module name="BehavioralDesign-Mediator" />
+        <module name="CreationalDesign-FactoryMethod" />
+        <module name="StructrualDesign-Decorator" />
+        <module name="BehavioralDesign-Iterator" />
+        <module name="CreationalDesign-AbstractFactory" />
+        <module name="CreationalDesign-Prototype" />
+        <module name="StructuralDesign-Adapter" />
+        <module name="BehavioralDesign-Memento" />
+        <module name="BehavioralDesign-ChainOfResponsibility" />
+        <module name="BehavioralDesign-State" />
+        <module name="BehavioralDesign-Visitor" />
         <module name="StructuralDesign-Bridge" />
+        <module name="BehavioralDesign-Template" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
