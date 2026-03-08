@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="StructrualDesign-Decorator" />
+        <module name="StructuralDesign-Adapter" />
+        <module name="StructuralDesign-Flyweight" />
+        <module name="StructuralDesign-Composite" />
+        <module name="StructuralDesign-Facade" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AbstractFactor" target="21" />
+      <module name="CreationalDesign-AbstractFactory" target="21" />
+      <module name="CreationalDesign-Builder" target="21" />
+      <module name="CreationalDesign-FactoryMethod" target="21" />
+      <module name="CreationalDesign-Prototype" target="21" />
+      <module name="CreationalDesign-Singleton" target="21" />
+      <module name="StructuralDesign-Bridge" target="21" />
+      <module name="StructuralDesign-Proxy" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
