@@ -6,22 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CreationalDesign-FactoryMethod" />
+        <module name="CreationalDesign-Singleton" />
         <module name="StructrualDesign-Decorator" />
+        <module name="CreationalDesign-AbstractFactory" />
+        <module name="CreationalDesign-Prototype" />
         <module name="StructuralDesign-Adapter" />
         <module name="StructuralDesign-Flyweight" />
         <module name="StructuralDesign-Composite" />
+        <module name="StructuralDesign-Proxy" />
         <module name="StructuralDesign-Facade" />
+        <module name="CreationalDesign-Builder" />
+        <module name="StructuralDesign-Bridge" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AbstractFactor" target="21" />
-      <module name="CreationalDesign-AbstractFactory" target="21" />
-      <module name="CreationalDesign-Builder" target="21" />
-      <module name="CreationalDesign-FactoryMethod" target="21" />
-      <module name="CreationalDesign-Prototype" target="21" />
-      <module name="CreationalDesign-Singleton" target="21" />
-      <module name="StructuralDesign-Bridge" target="21" />
-      <module name="StructuralDesign-Proxy" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

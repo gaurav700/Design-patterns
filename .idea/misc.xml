@@ -16,12 +16,17 @@
         <option value="$PROJECT_DIR$/StructuralDesign-Composite/pom.xml" />
         <option value="$PROJECT_DIR$/StructuralDesign-Proxy/pom.xml" />
         <option value="$PROJECT_DIR$/StructuralDesign-Flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/CreationalDesign-AbstractFactory/pom.xml" />
+        <option value="$PROJECT_DIR$/CreationalDesign-Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/CreationalDesign-FactoryMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/CreationalDesign-Prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/CreationalDesign-Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/StructuralDesign-Bridge/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/AbstractFactor/pom.xml" />
-        <option value="$PROJECT_DIR$/StructuralDesign-Proxy/pom.xml" />
       </set>
     </option>
   </component>
